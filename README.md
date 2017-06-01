@@ -1,4 +1,4 @@
-# IT Tech Book
+# Atom Book
 
-IT 관련 전반적인 내용 정리
+atom 관련 내용 정리
 
